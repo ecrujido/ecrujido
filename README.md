@@ -17,15 +17,21 @@
 
 <br>
 
-## Social Media:
-
+</div><h3 align="left">Connect with me:</h3>
 <div> <a href="https://twitter.com/https://twitter.com/ecrujido" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/eugene-crujido" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/https://github.com/ecrujido" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href = "mailto:eugene.crujido@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div><h3 align="left">Connect with me:</h3>
+</div>
+
+<br>
+
+</div><h3 align="left">Social Media:</h3>
 <p align="left">
-<a href="https://twitter.com/https://twitter.com/ecrujido" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="https://twitter.com/ecrujido" height="30" width="40" /></a><a href="https://linkedin.com/in/https://www.linkedin.com/in/eugene-crujido" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/eugene-crujido" height="30" width="40" /></a><a href="https://fb.com/https://facebook.com/genecrujido" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/facebook.svg" alt="https://facebook.com/genecrujido" height="30" width="40" /></a><a href="https://hashnode.com/@ecrujido" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/hashnode.svg" alt="@ecrujido" height="30" width="40" /></a><a href="https://codepen.io/https://codepen.io/ecrujido" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/codepen.svg" alt="https://codepen.io/ecrujido" height="30" width="40" /></a><a href="https://kaggle.com/https://kaggle.com/ecrujido" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/kaggle.svg" alt="https://kaggle.com/ecrujido" height="30" width="40" /></a></p>
+<a href="https://twitter.com/https://twitter.com/ecrujido" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="https://twitter.com/ecrujido" height="30" width="40" /></a><a href="https://linkedin.com/in/https://www.linkedin.com/in/eugene-crujido" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/eugene-crujido" height="30" width="40" /></a> <a href="https://fb.com/https://facebook.com/genecrujido" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/facebook.svg" alt="https://facebook.com/genecrujido" height="30" width="40" /></a>
+
+<a href="https://hashnode.com/@ecrujido" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/hashnode.svg" alt="@ecrujido" height="30" width="40" /></a><a href="https://codepen.io/https://codepen.io/ecrujido" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/codepen.svg" alt="https://codepen.io/ecrujido" height="30" width="40" /></a><a href="https://kaggle.com/https://kaggle.com/ecrujido" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/kaggle.svg" alt="https://kaggle.com/ecrujido" height="30" width="40" /></a>
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
