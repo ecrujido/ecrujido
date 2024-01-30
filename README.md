@@ -1,5 +1,5 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
-<h1 align="center">Hi 👋, Eugene Crujido Jr</h1>
+<h1 align="center">Hi 👋</h1>
 <h3 align="center">A "wannabe" Software/Web Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=https://github.com/ecrujido&label=Profile%20views&color=0e75b6&style=flat" alt="https://github.com/ecrujido" /> </p>
 
@@ -10,12 +10,14 @@
 - 📫 How to reach me **eugene.crujido@gmail.com**
 - 👨‍💻 All of my projects are available at **(WIP)**
 - ⚡ Fun fact **passion for Cycling (MTB/Road)**
-- 
 
 <br>
 
 [![Eugene's GitHub stats](https://github-readme-stats-lyart-phi.vercel.app/api?username=ecrujido&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/ecrujido/github-readme-stats)
 
+<br>
+
+## :book: Social Media:
 
 <div> <a href="https://twitter.com/https://twitter.com/ecrujido" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/eugene-crujido" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
