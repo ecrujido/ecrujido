@@ -5,8 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ecrujido/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=https://github.com/ecrujido&theme=default" alt="https://github.com/ecrujido" /></a> </p>
 
+</div><h3 align="left">About me:</h3>
 - 🌱 I’m currently learning **Free Code Camp - Data Visualization**
-
 - 📫 How to reach me **eugene.crujido@gmail.com**
 - 👨‍💻 All of my projects are available at **(WIP)**
 - ⚡ Fun fact **passion for Cycling (MTB/Road)**
