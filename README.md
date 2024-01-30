@@ -6,11 +6,12 @@
 <p align="left"> <a href="https://github.com/ecrujido/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=https://github.com/ecrujido&theme=default" alt="https://github.com/ecrujido" /></a> </p>
 
 </div><h3 align="left">About me:</h3>
+<p align="left">
 - 🌱 I’m currently learning **Free Code Camp - Data Visualization**
 - 📫 How to reach me **eugene.crujido@gmail.com**
 - 👨‍💻 All of my projects are available at **(WIP)**
 - ⚡ Fun fact **passion for Cycling (MTB/Road)**
-
+</p>
 <br>
 [![Eugene's GitHub stats](https://github-readme-stats-lyart-phi.vercel.app/api?username=ecrujido&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/ecrujido/github-readme-stats)
 <br>
