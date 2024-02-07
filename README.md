@@ -8,7 +8,7 @@
 - 📫 How to reach me **eugene.crujido@gmail.com**
 - 👨‍💻 All of my projects are available at **(WIP)**
 - ⚡ Fun fact **passion for Cycling (MTB/Road)**
-- 
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h3 align="left">Education:</h3>
 <p align="left">I graduated in <a href="https://www.ama.edu.ph/bachelor-of-science-in-computer-science/">AMA University</a>, Makati, Philippines, Bachelor of Science in Computer Science (BSCS)</p>
