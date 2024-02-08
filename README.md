@@ -4,7 +4,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-- 🌱 I’m currently learning **Free Code Camp - Data Visualization**
+- 🌱 I’m currently learning **Free Code Camp - LEARN EVERYTHING**
 - 📫 How to reach me **eugene.crujido@gmail.com**
 - 👨‍💻 All of my projects are available at **(WIP)**
 - ⚡ Fun fact **passion for Cycling (MTB/Road)**
